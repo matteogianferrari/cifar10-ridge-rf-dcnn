@@ -1,0 +1,6 @@
+model,dataset,time,accuracy
+RidgeClassifier,Original,20.12327671051025,0.4095
+RidgeClassifier,PCA,0.2816989421844482,0.4017
+RandomForest,Original,565.1367428302765,0.473
+RandomForest,PCA,296.9213607311249,0.4742
+DeepCNN,Original,5050.0,0.9035999774932861
