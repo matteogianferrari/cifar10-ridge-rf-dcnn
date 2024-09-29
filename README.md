@@ -1,4 +1,4 @@
-# Multiclass Classification Problem on CIFAR-10 Dataset
+# Multiclass Classification on CIFAR-10: Comparing Ridge, Random Forest, and Deep CNN with PCA and NAS-Bench-101
 
 This project tackles a multiclass classification problem using the **[CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)** dataset, a widely recognized benchmark for evaluating both Machine Learning and Deep Learning models. The primary objective is to compare the effectiveness, performance, and training time of three models in classifying images into their respective categories.
 
